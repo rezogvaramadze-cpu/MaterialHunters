@@ -1,0 +1,6 @@
+{
+  "name": "Material Hunters",
+  "description": "An avant-garde, brutalist, and chaotic web portfolio for the Material Hunters artistic group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
